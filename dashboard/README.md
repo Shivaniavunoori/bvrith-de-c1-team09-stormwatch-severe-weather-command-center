@@ -7,7 +7,7 @@
 **Program:** ZENAIZ x BVRIT Hyderabad Data Engineering Internship Program  
 **Track:** Data Engineering  
 **Duration:** 12 Weeks  
-**Team:** 10  
+**Team:** 9  
 **Students:** A. Shivani, Nirmala Devi Patel, G. Anusha  
 **AI Teammate:** Used responsibly for explanation, debugging, review, and documentation support.
 
