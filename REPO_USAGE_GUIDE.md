@@ -4,7 +4,7 @@ This repository is the working template for the ZENAIZ x BVRIT Hyderabad Data En
 
 ## Simple Rule
 
-Do not complete all files in Week 1.
+Do not complete all files in Week 1
 
 Every week, your sprint sheet will tell you exactly which files to update.
 
