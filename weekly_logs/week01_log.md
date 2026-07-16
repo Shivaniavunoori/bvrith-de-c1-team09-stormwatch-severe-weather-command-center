@@ -1,15 +1,17 @@
-# Week 01 Log — [Sprint Name]
+
+
+# Week 01 Log — Project Planning & GitHub Setup
 
 **Week:** 1  
-**Date range:** [Add dates]  
-**Team:** [Team name / number]  
-**Project:** [Project title]
+**Date Range:** [Add your Week 1 dates]  
+**Team:** Team 9  
+**Project:** StormWatch: Severe Weather Intelligence Hub
 
 ---
 
 ## 1. Sprint Goal
 
-Write the goal for this week in 2–3 lines.
+The goal of Week 1 was to understand the project requirements, create the GitHub repository using the provided template, organize the repository structure, and prepare the initial project documentation for the StormWatch data engineering project.
 
 ---
 
@@ -17,14 +19,18 @@ Write the goal for this week in 2–3 lines.
 
 | Task | Owner | Status | Evidence |
 |---|---|---|---|
-| [Task] | [Student] | [Done / In progress] | [file / screenshot / notebook] |
+| Created GitHub repository using template | A. Shivani | Done | GitHub Repository |
+| Verified repository structure and folders | Nirmala Devi Patel | Done | Repository Screenshot |
+| Updated README.md with project details | G. Anusha | Done | README.md |
+| Completed Problem Charter | Team | Done | docs/problem_charter.md |
+| Prepared Week 01 Log | Team | Done | weekly_logs/week01_log.md |
 
 ---
 
 ## 3. Key Decisions
 
-- [Decision 1]
-- [Decision 2]
+- Selected **StormWatch: Severe Weather Intelligence Hub** as the project topic.
+- Decided to use Databricks, Apache Spark, Delta Lake, GitHub, and Power BI for the complete data engineering pipeline.
 
 ---
 
@@ -32,15 +38,16 @@ Write the goal for this week in 2–3 lines.
 
 | Blocker | Impact | Help Needed |
 |---|---|---|
-| [Blocker] | [Impact] | [Help needed] |
+| Learning GitHub repository structure and documentation | Delayed understanding of project setup | Guidance from mentor and official documentation |
 
 ---
 
 ## 5. Evidence Added to GitHub
 
-- [File updated]
-- [Screenshot added]
-- [Notebook updated]
+- Updated `README.md`
+- Updated `docs/problem_charter.md`
+- Added `weekly_logs/week01_log.md`
+- Initial repository structure verified
 
 ---
 
@@ -48,14 +55,14 @@ Write the goal for this week in 2–3 lines.
 
 | Question | Response |
 |---|---|
-| Where AI helped | [Explain] |
-| What we changed after AI suggestion | [Explain] |
-| What we verified manually | [Explain] |
-| What we can explain without AI | [Explain] |
+| Where AI helped | Understanding the GitHub template, preparing README, Problem Charter, and Week 01 documentation. |
+| What we changed after AI suggestion | Modified the documentation according to our project topic, team details, and internship requirements. |
+| What we verified manually | Repository structure, project information, documentation content, and formatting. |
+| What we can explain without AI | Complete project overview, repository structure, GitHub workflow, project objectives, and documentation. |
 
 ---
 
 ## 7. Next Week Preparation
 
-- [Action]
-- [Action]
+- Design the weather dataset and identify required weather attributes.
+- Prepare the data dictionary and sample weather datasets for Databricks processing.*
