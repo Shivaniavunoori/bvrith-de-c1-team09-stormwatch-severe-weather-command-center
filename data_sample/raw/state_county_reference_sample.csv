@@ -1,0 +1,241 @@
+state_code,state_name,region_group,county_zone_code,county_zone_name,centroid_latitude,centroid_longitude,active_flag,synthetic_record_flag
+SW01,North Coast,Coastal,Z001,North Coast Zone 01,44.49471,-121.92881,Y,Y
+SW01,North Coast,Coastal,Z002,North Coast Zone 02,41.86027,-122.72838,Y,Y
+SW01,North Coast,Coastal,Z003,North Coast Zone 03,44.07225,-124.28924,Y,Y
+SW01,North Coast,Coastal,Z004,North Coast Zone 04,44.48984,-123.52167,Y,Y
+SW01,North Coast,Coastal,Z005,North Coast Zone 05,44.21527,-125.72338,Y,Y
+SW01,North Coast,Coastal,Z006,North Coast Zone 06,43.66707,-122.97697,Y,Y
+SW01,North Coast,Coastal,Z007,North Coast Zone 07,44.15878,-124.26493,Y,Y
+SW01,North Coast,Coastal,Z008,North Coast Zone 08,42.08647,-122.07348,Y,Y
+SW01,North Coast,Coastal,Z009,North Coast Zone 09,44.73506,-125.07764,Y,Y
+SW01,North Coast,Coastal,Z010,North Coast Zone 10,43.36089,-123.49705,Y,Y
+SW01,North Coast,Coastal,Z011,North Coast Zone 11,44.69075,-121.44808,Y,Y
+SW01,North Coast,Coastal,Z012,North Coast Zone 12,45.51287,-123.23309,Y,Y
+SW01,North Coast,Coastal,Z013,North Coast Zone 13,44.42906,-123.83324,Y,Y
+SW01,North Coast,Coastal,Z014,North Coast Zone 14,44.41665,-120.37132,Y,Y
+SW01,North Coast,Coastal,Z015,North Coast Zone 15,44.51106,-118.99271,Y,Y
+SW01,North Coast,Coastal,Z016,North Coast Zone 16,46.75048,-123.04839,Y,Y
+SW01,North Coast,Coastal,Z017,North Coast Zone 17,44.42714,-119.91302,Y,Y
+SW01,North Coast,Coastal,Z018,North Coast Zone 18,44.43653,-126.58611,Y,Y
+SW01,North Coast,Coastal,Z019,North Coast Zone 19,46.86034,-122.51874,Y,Y
+SW01,North Coast,Coastal,Z020,North Coast Zone 20,44.27788,-120.03448,Y,Y
+SW02,Cascade,Mountain,Z021,Cascade Zone 01,46.46103,-121.26229,Y,Y
+SW02,Cascade,Mountain,Z022,Cascade Zone 02,46.37217,-120.88382,Y,Y
+SW02,Cascade,Mountain,Z023,Cascade Zone 03,46.92897,-120.00424,Y,Y
+SW02,Cascade,Mountain,Z024,Cascade Zone 04,48.57402,-121.56364,Y,Y
+SW02,Cascade,Mountain,Z025,Cascade Zone 05,48.14421,-121.0213,Y,Y
+SW02,Cascade,Mountain,Z026,Cascade Zone 06,47.26245,-120.16458,Y,Y
+SW02,Cascade,Mountain,Z027,Cascade Zone 07,47.72013,-121.34842,Y,Y
+SW02,Cascade,Mountain,Z028,Cascade Zone 08,46.51008,-123.04199,Y,Y
+SW02,Cascade,Mountain,Z029,Cascade Zone 09,45.70972,-123.02462,Y,Y
+SW02,Cascade,Mountain,Z030,Cascade Zone 10,44.13498,-120.66308,Y,Y
+SW02,Cascade,Mountain,Z031,Cascade Zone 11,46.88625,-119.29337,Y,Y
+SW02,Cascade,Mountain,Z032,Cascade Zone 12,45.60549,-119.5893,Y,Y
+SW02,Cascade,Mountain,Z033,Cascade Zone 13,45.3551,-121.47845,Y,Y
+SW02,Cascade,Mountain,Z034,Cascade Zone 14,47.31725,-118.94871,Y,Y
+SW02,Cascade,Mountain,Z035,Cascade Zone 15,45.64678,-123.34503,Y,Y
+SW02,Cascade,Mountain,Z036,Cascade Zone 16,45.18765,-125.31857,Y,Y
+SW02,Cascade,Mountain,Z037,Cascade Zone 17,47.7061,-121.3256,Y,Y
+SW02,Cascade,Mountain,Z038,Cascade Zone 18,47.35173,-121.40761,Y,Y
+SW02,Cascade,Mountain,Z039,Cascade Zone 19,45.58017,-121.42448,Y,Y
+SW02,Cascade,Mountain,Z040,Cascade Zone 20,45.75938,-120.39137,Y,Y
+SW03,High Plains,Plains,Z041,High Plains Zone 01,37.60352,-104.25205,Y,Y
+SW03,High Plains,Plains,Z042,High Plains Zone 02,39.02351,-101.26363,Y,Y
+SW03,High Plains,Plains,Z043,High Plains Zone 03,39.71941,-102.39182,Y,Y
+SW03,High Plains,Plains,Z044,High Plains Zone 04,41.35344,-102.04293,Y,Y
+SW03,High Plains,Plains,Z045,High Plains Zone 05,39.66001,-102.9875,Y,Y
+SW03,High Plains,Plains,Z046,High Plains Zone 06,41.34794,-102.46385,Y,Y
+SW03,High Plains,Plains,Z047,High Plains Zone 07,40.9839,-103.17772,Y,Y
+SW03,High Plains,Plains,Z048,High Plains Zone 08,41.30182,-103.49993,Y,Y
+SW03,High Plains,Plains,Z049,High Plains Zone 09,41.73946,-99.89691,Y,Y
+SW03,High Plains,Plains,Z050,High Plains Zone 10,38.84577,-102.82215,Y,Y
+SW03,High Plains,Plains,Z051,High Plains Zone 11,39.78309,-102.41202,Y,Y
+SW03,High Plains,Plains,Z052,High Plains Zone 12,41.05198,-102.19931,Y,Y
+SW03,High Plains,Plains,Z053,High Plains Zone 13,39.91786,-102.35214,Y,Y
+SW03,High Plains,Plains,Z054,High Plains Zone 14,39.8454,-100.05384,Y,Y
+SW03,High Plains,Plains,Z055,High Plains Zone 15,39.85727,-103.24909,Y,Y
+SW03,High Plains,Plains,Z056,High Plains Zone 16,38.88719,-102.62804,Y,Y
+SW03,High Plains,Plains,Z057,High Plains Zone 17,38.9691,-103.39016,Y,Y
+SW03,High Plains,Plains,Z058,High Plains Zone 18,41.59212,-99.36254,Y,Y
+SW03,High Plains,Plains,Z059,High Plains Zone 19,41.65425,-99.5225,Y,Y
+SW03,High Plains,Plains,Z060,High Plains Zone 20,40.59572,-103.57079,Y,Y
+SW04,Red Mesa,Southwest,Z061,Red Mesa Zone 01,33.45972,-110.52309,Y,Y
+SW04,Red Mesa,Southwest,Z062,Red Mesa Zone 02,33.13384,-108.59176,Y,Y
+SW04,Red Mesa,Southwest,Z063,Red Mesa Zone 03,35.65537,-108.75599,Y,Y
+SW04,Red Mesa,Southwest,Z064,Red Mesa Zone 04,34.81576,-109.91596,Y,Y
+SW04,Red Mesa,Southwest,Z065,Red Mesa Zone 05,35.82727,-110.63369,Y,Y
+SW04,Red Mesa,Southwest,Z066,Red Mesa Zone 06,36.3933,-107.64769,Y,Y
+SW04,Red Mesa,Southwest,Z067,Red Mesa Zone 07,34.28764,-108.01831,Y,Y
+SW04,Red Mesa,Southwest,Z068,Red Mesa Zone 08,36.43233,-110.90298,Y,Y
+SW04,Red Mesa,Southwest,Z069,Red Mesa Zone 09,33.13321,-107.79974,Y,Y
+SW04,Red Mesa,Southwest,Z070,Red Mesa Zone 10,34.36077,-112.15332,Y,Y
+SW04,Red Mesa,Southwest,Z071,Red Mesa Zone 11,35.22316,-113.39126,Y,Y
+SW04,Red Mesa,Southwest,Z072,Red Mesa Zone 12,34.14061,-107.21603,Y,Y
+SW04,Red Mesa,Southwest,Z073,Red Mesa Zone 13,35.42695,-108.34564,Y,Y
+SW04,Red Mesa,Southwest,Z074,Red Mesa Zone 14,36.68677,-109.25241,Y,Y
+SW04,Red Mesa,Southwest,Z075,Red Mesa Zone 15,34.17888,-110.16642,Y,Y
+SW04,Red Mesa,Southwest,Z076,Red Mesa Zone 16,34.75928,-111.47341,Y,Y
+SW04,Red Mesa,Southwest,Z077,Red Mesa Zone 17,34.08561,-113.169,Y,Y
+SW04,Red Mesa,Southwest,Z078,Red Mesa Zone 18,34.7987,-109.05624,Y,Y
+SW04,Red Mesa,Southwest,Z079,Red Mesa Zone 19,34.95926,-110.52862,Y,Y
+SW04,Red Mesa,Southwest,Z080,Red Mesa Zone 20,33.24656,-108.3513,Y,Y
+SW05,Great Basin,Interior,Z081,Great Basin Zone 01,40.5336,-114.98493,Y,Y
+SW05,Great Basin,Interior,Z082,Great Basin Zone 02,40.32264,-115.05268,Y,Y
+SW05,Great Basin,Interior,Z083,Great Basin Zone 03,37.58675,-117.56003,Y,Y
+SW05,Great Basin,Interior,Z084,Great Basin Zone 04,38.80554,-117.07563,Y,Y
+SW05,Great Basin,Interior,Z085,Great Basin Zone 05,39.50654,-113.08113,Y,Y
+SW05,Great Basin,Interior,Z086,Great Basin Zone 06,39.30349,-116.87242,Y,Y
+SW05,Great Basin,Interior,Z087,Great Basin Zone 07,35.85443,-115.28333,Y,Y
+SW05,Great Basin,Interior,Z088,Great Basin Zone 08,37.34831,-114.70667,Y,Y
+SW05,Great Basin,Interior,Z089,Great Basin Zone 09,40.64052,-118.66581,Y,Y
+SW05,Great Basin,Interior,Z090,Great Basin Zone 10,40.16501,-114.66908,Y,Y
+SW05,Great Basin,Interior,Z091,Great Basin Zone 11,36.97795,-112.46945,Y,Y
+SW05,Great Basin,Interior,Z092,Great Basin Zone 12,37.88619,-114.7816,Y,Y
+SW05,Great Basin,Interior,Z093,Great Basin Zone 13,39.18177,-119.49541,Y,Y
+SW05,Great Basin,Interior,Z094,Great Basin Zone 14,39.04781,-117.06612,Y,Y
+SW05,Great Basin,Interior,Z095,Great Basin Zone 15,40.59871,-115.62844,Y,Y
+SW05,Great Basin,Interior,Z096,Great Basin Zone 16,39.55221,-116.05923,Y,Y
+SW05,Great Basin,Interior,Z097,Great Basin Zone 17,39.24689,-117.0011,Y,Y
+SW05,Great Basin,Interior,Z098,Great Basin Zone 18,37.38657,-112.53315,Y,Y
+SW05,Great Basin,Interior,Z099,Great Basin Zone 19,40.30438,-116.28415,Y,Y
+SW05,Great Basin,Interior,Z100,Great Basin Zone 20,40.70445,-115.6102,Y,Y
+SW06,Prairie North,Plains,Z101,Prairie North Zone 01,46.3491,-97.44215,Y,Y
+SW06,Prairie North,Plains,Z102,Prairie North Zone 02,47.57732,-101.94511,Y,Y
+SW06,Prairie North,Plains,Z103,Prairie North Zone 03,46.6779,-97.93003,Y,Y
+SW06,Prairie North,Plains,Z104,Prairie North Zone 04,46.35453,-98.26755,Y,Y
+SW06,Prairie North,Plains,Z105,Prairie North Zone 05,48.54198,-100.75796,Y,Y
+SW06,Prairie North,Plains,Z106,Prairie North Zone 06,46.4116,-101.04788,Y,Y
+SW06,Prairie North,Plains,Z107,Prairie North Zone 07,45.72556,-100.59652,Y,Y
+SW06,Prairie North,Plains,Z108,Prairie North Zone 08,44.75879,-101.96585,Y,Y
+SW06,Prairie North,Plains,Z109,Prairie North Zone 09,45.58844,-101.94789,Y,Y
+SW06,Prairie North,Plains,Z110,Prairie North Zone 10,45.72422,-100.21127,Y,Y
+SW06,Prairie North,Plains,Z111,Prairie North Zone 11,46.02281,-101.99814,Y,Y
+SW06,Prairie North,Plains,Z112,Prairie North Zone 12,47.02803,-99.50446,Y,Y
+SW06,Prairie North,Plains,Z113,Prairie North Zone 13,47.10399,-98.24579,Y,Y
+SW06,Prairie North,Plains,Z114,Prairie North Zone 14,47.88198,-99.68802,Y,Y
+SW06,Prairie North,Plains,Z115,Prairie North Zone 15,47.78574,-100.93456,Y,Y
+SW06,Prairie North,Plains,Z116,Prairie North Zone 16,46.63223,-99.89535,Y,Y
+SW06,Prairie North,Plains,Z117,Prairie North Zone 17,47.42431,-100.73297,Y,Y
+SW06,Prairie North,Plains,Z118,Prairie North Zone 18,46.29527,-98.6261,Y,Y
+SW06,Prairie North,Plains,Z119,Prairie North Zone 19,47.10258,-98.28646,Y,Y
+SW06,Prairie North,Plains,Z120,Prairie North Zone 20,44.79572,-99.68147,Y,Y
+SW07,Lake Country,Great Lakes,Z121,Lake Country Zone 01,45.52212,-88.16854,Y,Y
+SW07,Lake Country,Great Lakes,Z122,Lake Country Zone 02,42.59521,-88.87219,Y,Y
+SW07,Lake Country,Great Lakes,Z123,Lake Country Zone 03,43.93128,-88.72055,Y,Y
+SW07,Lake Country,Great Lakes,Z124,Lake Country Zone 04,42.30049,-87.38935,Y,Y
+SW07,Lake Country,Great Lakes,Z125,Lake Country Zone 05,43.01468,-86.92796,Y,Y
+SW07,Lake Country,Great Lakes,Z126,Lake Country Zone 06,44.69894,-86.72619,Y,Y
+SW07,Lake Country,Great Lakes,Z127,Lake Country Zone 07,43.04382,-85.04564,Y,Y
+SW07,Lake Country,Great Lakes,Z128,Lake Country Zone 08,42.35575,-87.6555,Y,Y
+SW07,Lake Country,Great Lakes,Z129,Lake Country Zone 09,41.66723,-87.52209,Y,Y
+SW07,Lake Country,Great Lakes,Z130,Lake Country Zone 10,43.31508,-84.67473,Y,Y
+SW07,Lake Country,Great Lakes,Z131,Lake Country Zone 11,44.9574,-89.55971,Y,Y
+SW07,Lake Country,Great Lakes,Z132,Lake Country Zone 12,43.35044,-87.3847,Y,Y
+SW07,Lake Country,Great Lakes,Z133,Lake Country Zone 13,44.53624,-87.00488,Y,Y
+SW07,Lake Country,Great Lakes,Z134,Lake Country Zone 14,42.96625,-90.63573,Y,Y
+SW07,Lake Country,Great Lakes,Z135,Lake Country Zone 15,42.48939,-88.78712,Y,Y
+SW07,Lake Country,Great Lakes,Z136,Lake Country Zone 16,44.95659,-90.60047,Y,Y
+SW07,Lake Country,Great Lakes,Z137,Lake Country Zone 17,41.45913,-88.65156,Y,Y
+SW07,Lake Country,Great Lakes,Z138,Lake Country Zone 18,43.69211,-87.74122,Y,Y
+SW07,Lake Country,Great Lakes,Z139,Lake Country Zone 19,44.79803,-90.28464,Y,Y
+SW07,Lake Country,Great Lakes,Z140,Lake Country Zone 20,43.63607,-88.8795,Y,Y
+SW08,River Valley,Central,Z141,River Valley Zone 01,37.6233,-88.54964,Y,Y
+SW08,River Valley,Central,Z142,River Valley Zone 02,36.87768,-89.1829,Y,Y
+SW08,River Valley,Central,Z143,River Valley Zone 03,39.91575,-93.22128,Y,Y
+SW08,River Valley,Central,Z144,River Valley Zone 04,39.11433,-93.51263,Y,Y
+SW08,River Valley,Central,Z145,River Valley Zone 05,38.49949,-90.19604,Y,Y
+SW08,River Valley,Central,Z146,River Valley Zone 06,39.11081,-92.96819,Y,Y
+SW08,River Valley,Central,Z147,River Valley Zone 07,39.07885,-91.77945,Y,Y
+SW08,River Valley,Central,Z148,River Valley Zone 08,40.42149,-87.73511,Y,Y
+SW08,River Valley,Central,Z149,River Valley Zone 09,37.18302,-91.54439,Y,Y
+SW08,River Valley,Central,Z150,River Valley Zone 10,38.57201,-93.19968,Y,Y
+SW08,River Valley,Central,Z151,River Valley Zone 11,37.32378,-90.71476,Y,Y
+SW08,River Valley,Central,Z152,River Valley Zone 12,37.65077,-90.25208,Y,Y
+SW08,River Valley,Central,Z153,River Valley Zone 13,38.64734,-91.31303,Y,Y
+SW08,River Valley,Central,Z154,River Valley Zone 14,37.69433,-89.88509,Y,Y
+SW08,River Valley,Central,Z155,River Valley Zone 15,38.76154,-90.49983,Y,Y
+SW08,River Valley,Central,Z156,River Valley Zone 16,39.97869,-89.09822,Y,Y
+SW08,River Valley,Central,Z157,River Valley Zone 17,37.711,-90.67295,Y,Y
+SW08,River Valley,Central,Z158,River Valley Zone 18,38.10628,-89.5638,Y,Y
+SW08,River Valley,Central,Z159,River Valley Zone 19,37.0846,-88.80946,Y,Y
+SW08,River Valley,Central,Z160,River Valley Zone 20,39.70583,-92.06096,Y,Y
+SW09,Gulf Reach,Gulf,Z161,Gulf Reach Zone 01,29.84788,-91.79634,Y,Y
+SW09,Gulf Reach,Gulf,Z162,Gulf Reach Zone 02,29.79403,-88.94447,Y,Y
+SW09,Gulf Reach,Gulf,Z163,Gulf Reach Zone 03,30.93321,-92.42641,Y,Y
+SW09,Gulf Reach,Gulf,Z164,Gulf Reach Zone 04,29.5423,-90.66283,Y,Y
+SW09,Gulf Reach,Gulf,Z165,Gulf Reach Zone 05,30.75612,-90.88201,Y,Y
+SW09,Gulf Reach,Gulf,Z166,Gulf Reach Zone 06,29.89779,-91.29233,Y,Y
+SW09,Gulf Reach,Gulf,Z167,Gulf Reach Zone 07,27.60269,-92.7392,Y,Y
+SW09,Gulf Reach,Gulf,Z168,Gulf Reach Zone 08,28.70592,-89.51175,Y,Y
+SW09,Gulf Reach,Gulf,Z169,Gulf Reach Zone 09,31.75059,-91.3205,Y,Y
+SW09,Gulf Reach,Gulf,Z170,Gulf Reach Zone 10,31.89106,-93.98818,Y,Y
+SW09,Gulf Reach,Gulf,Z171,Gulf Reach Zone 11,30.80979,-89.19083,Y,Y
+SW09,Gulf Reach,Gulf,Z172,Gulf Reach Zone 12,30.26626,-91.69818,Y,Y
+SW09,Gulf Reach,Gulf,Z173,Gulf Reach Zone 13,30.46985,-91.72901,Y,Y
+SW09,Gulf Reach,Gulf,Z174,Gulf Reach Zone 14,30.15629,-93.90604,Y,Y
+SW09,Gulf Reach,Gulf,Z175,Gulf Reach Zone 15,29.79391,-89.18957,Y,Y
+SW09,Gulf Reach,Gulf,Z176,Gulf Reach Zone 16,31.02195,-92.88525,Y,Y
+SW09,Gulf Reach,Gulf,Z177,Gulf Reach Zone 17,31.29747,-90.30446,Y,Y
+SW09,Gulf Reach,Gulf,Z178,Gulf Reach Zone 18,29.38321,-90.22718,Y,Y
+SW09,Gulf Reach,Gulf,Z179,Gulf Reach Zone 19,29.73816,-94.2721,Y,Y
+SW09,Gulf Reach,Gulf,Z180,Gulf Reach Zone 20,30.76234,-92.90004,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z181,Atlantic Ridge Zone 01,34.76478,-80.44667,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z182,Atlantic Ridge Zone 02,34.79776,-78.53128,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z183,Atlantic Ridge Zone 03,34.25443,-80.9142,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z184,Atlantic Ridge Zone 04,35.94709,-76.86622,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z185,Atlantic Ridge Zone 05,36.39725,-75.61694,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z186,Atlantic Ridge Zone 06,34.60237,-80.05785,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z187,Atlantic Ridge Zone 07,34.84787,-78.06747,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z188,Atlantic Ridge Zone 08,35.90501,-76.57984,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z189,Atlantic Ridge Zone 09,37.34066,-75.90912,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z190,Atlantic Ridge Zone 10,35.21851,-75.96105,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z191,Atlantic Ridge Zone 11,35.54988,-78.91215,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z192,Atlantic Ridge Zone 12,33.01843,-77.69012,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z193,Atlantic Ridge Zone 13,33.24396,-76.15412,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z194,Atlantic Ridge Zone 14,37.31531,-78.05621,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z195,Atlantic Ridge Zone 15,36.47449,-77.49367,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z196,Atlantic Ridge Zone 16,37.3466,-80.33717,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z197,Atlantic Ridge Zone 17,34.86231,-78.80119,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z198,Atlantic Ridge Zone 18,34.95901,-79.77718,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z199,Atlantic Ridge Zone 19,35.75613,-77.58838,Y,Y
+SW10,Atlantic Ridge,Atlantic,Z200,Atlantic Ridge Zone 20,33.97138,-78.28157,Y,Y
+SW11,Pine Highlands,Southeast,Z201,Pine Highlands Zone 01,35.08867,-85.41211,Y,Y
+SW11,Pine Highlands,Southeast,Z202,Pine Highlands Zone 02,33.97752,-86.17404,Y,Y
+SW11,Pine Highlands,Southeast,Z203,Pine Highlands Zone 03,32.88703,-83.53665,Y,Y
+SW11,Pine Highlands,Southeast,Z204,Pine Highlands Zone 04,32.74338,-85.51571,Y,Y
+SW11,Pine Highlands,Southeast,Z205,Pine Highlands Zone 05,34.80588,-86.19832,Y,Y
+SW11,Pine Highlands,Southeast,Z206,Pine Highlands Zone 06,33.29084,-83.86298,Y,Y
+SW11,Pine Highlands,Southeast,Z207,Pine Highlands Zone 07,34.71661,-81.56142,Y,Y
+SW11,Pine Highlands,Southeast,Z208,Pine Highlands Zone 08,32.77087,-82.31254,Y,Y
+SW11,Pine Highlands,Southeast,Z209,Pine Highlands Zone 09,36.28569,-89.1968,Y,Y
+SW11,Pine Highlands,Southeast,Z210,Pine Highlands Zone 10,35.57385,-84.15654,Y,Y
+SW11,Pine Highlands,Southeast,Z211,Pine Highlands Zone 11,32.28746,-86.8529,Y,Y
+SW11,Pine Highlands,Southeast,Z212,Pine Highlands Zone 12,33.07437,-82.66914,Y,Y
+SW11,Pine Highlands,Southeast,Z213,Pine Highlands Zone 13,32.83728,-82.10835,Y,Y
+SW11,Pine Highlands,Southeast,Z214,Pine Highlands Zone 14,32.52942,-84.19555,Y,Y
+SW11,Pine Highlands,Southeast,Z215,Pine Highlands Zone 15,33.57101,-83.60709,Y,Y
+SW11,Pine Highlands,Southeast,Z216,Pine Highlands Zone 16,33.29191,-81.0645,Y,Y
+SW11,Pine Highlands,Southeast,Z217,Pine Highlands Zone 17,34.15918,-85.1826,Y,Y
+SW11,Pine Highlands,Southeast,Z218,Pine Highlands Zone 18,33.76754,-83.34166,Y,Y
+SW11,Pine Highlands,Southeast,Z219,Pine Highlands Zone 19,33.8712,-84.22885,Y,Y
+SW11,Pine Highlands,Southeast,Z220,Pine Highlands Zone 20,34.82519,-82.66122,Y,Y
+SW12,Northeast Corridor,Northeast,Z221,Northeast Corridor Zone 01,43.99297,-76.01716,Y,Y
+SW12,Northeast Corridor,Northeast,Z222,Northeast Corridor Zone 02,41.21366,-74.00149,Y,Y
+SW12,Northeast Corridor,Northeast,Z223,Northeast Corridor Zone 03,41.43223,-69.81602,Y,Y
+SW12,Northeast Corridor,Northeast,Z224,Northeast Corridor Zone 04,42.19282,-70.80187,Y,Y
+SW12,Northeast Corridor,Northeast,Z225,Northeast Corridor Zone 05,45.74776,-71.61504,Y,Y
+SW12,Northeast Corridor,Northeast,Z226,Northeast Corridor Zone 06,43.12936,-73.46465,Y,Y
+SW12,Northeast Corridor,Northeast,Z227,Northeast Corridor Zone 07,41.82941,-72.39269,Y,Y
+SW12,Northeast Corridor,Northeast,Z228,Northeast Corridor Zone 08,44.27115,-73.73612,Y,Y
+SW12,Northeast Corridor,Northeast,Z229,Northeast Corridor Zone 09,42.63001,-72.45824,Y,Y
+SW12,Northeast Corridor,Northeast,Z230,Northeast Corridor Zone 10,44.00406,-72.47334,Y,Y
+SW12,Northeast Corridor,Northeast,Z231,Northeast Corridor Zone 11,42.27411,-71.47931,Y,Y
+SW12,Northeast Corridor,Northeast,Z232,Northeast Corridor Zone 12,44.39213,-74.16287,Y,Y
+SW12,Northeast Corridor,Northeast,Z233,Northeast Corridor Zone 13,43.16204,-75.40291,Y,Y
+SW12,Northeast Corridor,Northeast,Z234,Northeast Corridor Zone 14,42.73698,-72.02272,Y,Y
+SW12,Northeast Corridor,Northeast,Z235,Northeast Corridor Zone 15,41.72053,-77.97851,Y,Y
+SW12,Northeast Corridor,Northeast,Z236,Northeast Corridor Zone 16,43.07222,-70.62693,Y,Y
+SW12,Northeast Corridor,Northeast,Z237,Northeast Corridor Zone 17,40.76054,-73.08119,Y,Y
+SW12,Northeast Corridor,Northeast,Z238,Northeast Corridor Zone 18,42.60212,-72.66443,Y,Y
+SW12,Northeast Corridor,Northeast,Z239,Northeast Corridor Zone 19,41.50178,-72.13421,Y,Y
+SW12,Northeast Corridor,Northeast,Z240,Northeast Corridor Zone 20,43.40959,-74.16033,Y,Y

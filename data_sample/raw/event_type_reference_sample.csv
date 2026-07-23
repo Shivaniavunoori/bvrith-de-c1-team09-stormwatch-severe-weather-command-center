@@ -1,0 +1,25 @@
+event_type,hazard_group,magnitude_applicable_flag,allowed_magnitude_type,high_impact_threshold,default_severity_weight,synthetic_record_flag
+Thunderstorm Wind,Convective,Y,KT,58.0,1.4,Y
+Hail,Convective,Y,IN,1.0,1.1,Y
+Tornado,Convective,Y,EF,1.0,3.0,Y
+Flash Flood,Flood,N,,0.0,2.4,Y
+Flood,Flood,N,,0.0,1.8,Y
+Heavy Rain,Flood,N,,0.0,1.2,Y
+High Wind,Wind,Y,KT,45.0,1.8,Y
+Strong Wind,Wind,Y,KT,35.0,1.2,Y
+Winter Storm,Winter,N,,0.0,2.0,Y
+Ice Storm,Winter,N,,0.0,2.2,Y
+Heavy Snow,Winter,Y,IN,6.0,1.5,Y
+Blizzard,Winter,Y,KT,35.0,2.6,Y
+Excessive Heat,Temperature,Y,F,105.0,2.2,Y
+Heat,Temperature,Y,F,95.0,1.4,Y
+Cold/Wind Chill,Temperature,Y,F,-10.0,1.5,Y
+Extreme Cold,Temperature,Y,F,-20.0,2.0,Y
+Drought,Dry,N,,0.0,2.0,Y
+Wildfire,Fire,Y,ACRES,100.0,2.5,Y
+Dust Storm,Visibility,Y,MI,0.5,1.6,Y
+Dense Fog,Visibility,Y,MI,0.25,1.0,Y
+Coastal Flood,Coastal,N,,0.0,1.8,Y
+Rip Current,Coastal,N,,0.0,1.5,Y
+Lightning,Convective,N,,0.0,1.3,Y
+Funnel Cloud,Convective,N,,0.0,0.8,Y
