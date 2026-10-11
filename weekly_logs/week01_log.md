@@ -3,7 +3,7 @@
 # Week 01 Log — Project Planning & GitHub Setup
 
 **Week:** 1  
-**Date Range:** [Add your Week 1 dates]  
+**Date Range:** [10july - 16july]  
 **Team:** Team 9  
 **Project:** StormWatch: Severe Weather Intelligence Hub
 
