@@ -1,4 +1,4 @@
-# StormWatch — Storm Event Analytics and Risk Dashboard
+# StormWatch-severe-weather-command-center
 
 > **Student note:** Start with `00_START_HERE.md` and `00_TEMPLATE_INDEX.md`. The placeholder files inside this repository are the templates.
 
